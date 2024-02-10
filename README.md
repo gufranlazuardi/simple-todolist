@@ -35,5 +35,5 @@ npm run dev
 
 ## 💾 Screenshots
 
-<img width="1440" alt="image" src="https://github.com/gufranlazuardi/simple-todolist/assets/127754894/a21a6178-a1c3-43d1-aecd-c421987c5032">
+<img width="1440" alt="image" src="https://github.com/gufranlazuardi/simple-todolist/assets/127754894/bb752783-490c-4635-ab96-fbf431728ade">
 

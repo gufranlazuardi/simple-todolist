@@ -64,6 +64,7 @@ const TodoCard = () => {
         <Input
           className="h-2 rounded-sm py-4"
           onChange={(e) => setInput(e.currentTarget.value)}
+          placeholder="e.g. go to the gym"
         />
         <Button className="h-8" onClick={handleButton}>
           Add Todo

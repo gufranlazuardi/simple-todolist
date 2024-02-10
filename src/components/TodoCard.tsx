@@ -47,7 +47,7 @@ const TodoCard = () => {
           {todos.map((todo) => (
             <li
               key={todo.id}
-              className={`list-decimal cursor-pointer ${
+              className={`list-decimal cursor-pointer font-poppins text-sm ${
                 todo.completed ? "line-through" : "none"
               } ${todo.completed ? "text-pink-500" : "none"}`}
               onClick={() => {
